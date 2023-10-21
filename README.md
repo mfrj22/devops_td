@@ -6,6 +6,8 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
+
 
 
 # devops_td
