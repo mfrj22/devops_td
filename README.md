@@ -9,7 +9,6 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
-
-
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=mfrj22_devops_td&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=mfrj22_devops_td)
 
 # devops_td
