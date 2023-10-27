@@ -33,6 +33,13 @@ pip install -U pytest
 
  Vous pouvez vérifier si pytest est installé en exécutant `pytest --version` dans votre terminal.
 
+### 3. Clonage du projet
+Maintenant que Python et pytest sont installés, vous pouvez cloner le dépôt Github sur votre machine locale en utilisant la commande suivante :
+
+```
+git clone https://github.com/mfrj22/devops_td.git
+```
+
  ## Utilisation des fonctions de test
 Afin de pouvoir tester les fonctions, vous pouvez ouvrir un terminal depuis la racine de votre projet puis effectuer les commandes suivantes :
 
