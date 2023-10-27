@@ -63,7 +63,7 @@ Cette fonction appelle la fonction "hello()" et vérifie qu'elle retourne bien "
 #### Fonction 1 : func(x)
 Cette fonction prend en entrée un entier et l'incrémente de 1. Elle retourne le résultat de l'addition.
 #### Fonction 2 : test_answer()
-Cette fonction appele la fonction "func(3)" et vérifie que le résultat est 4. (3+1=4)
+Cette fonction appelle la fonction "func(3)" et vérifie que le résultat est 4. (3+1=4)
 
 ---
 
