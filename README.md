@@ -43,31 +43,26 @@ pytest
 
 Après avoir lancer vos différents tests, vous obtiendrez cet aperçu :
 
-collected 2 items                                                                                                    
-
-tests\test_helloworld.py .                                                                                    [ 50%] 
-tests\test_sample.py .                                                                                        [100%] 
-
-================================================ 2 passed in 0.02s =================================================
+![image](https://github.com/mfrj22/devops_td/assets/100136853/f2e5c337-bde4-4d7b-995f-ed0e211358de)
 
 Le [100 %] fait référence à la progression globale de l'exécution de tous les scénarios de test. 
 Dans notre cas, nous pouvons remarquer que nos deux tests ont été validés ("2 passed").
 
 ## Descriptions des fonctions
 
-### helloword.py
-#### hello()
+### Fichier 1 : helloword.py
+#### Fonction : hello()
 
 Cette fonction retourne "Hello Khaoula !".
 
-### test_helloworld.py
-#### test_hello()
+### Fichier 2 : test_helloworld.py
+#### Fonction : test_hello()
 Cette fonction appelle la fonction "hello()" et vérifie qu'elle retourne bien "Hello Khaoula !" grâce à une assertion.
 
-### test_sample.py
-#### func(x)
+### Fichier 3 : test_sample.py
+#### Fonction 1 : func(x)
 Cette fonction prend en entrée un entier et l'incrémente de 1. Elle retourne le résultat de l'addition.
-#### test_answer()
+#### Fonction 2 : test_answer()
 Cette fonction appele la fonction "func(3)" et vérifie que le résultat est 4. (3+1=4)
 
 ---
