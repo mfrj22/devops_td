@@ -41,7 +41,7 @@ cd tests
 pytest
 ```
 
-Après avoir lancer vos différents tests, vous obtiendrez cet aperçu :
+Après avoir lancé vos différents tests, vous obtiendrez cet aperçu :
 
 ![image](https://github.com/mfrj22/devops_td/assets/100136853/f2e5c337-bde4-4d7b-995f-ed0e211358de)
 
